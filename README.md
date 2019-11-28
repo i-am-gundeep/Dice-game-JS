@@ -1,2 +1,4 @@
-# Driver-drowsiness-detection
-Developed a real time model which aims to detect the drowsiness of drivers and alert them. This model employed various techniques of computer vision and was implemented using Python language.
+# Dice-Game-JS
+A simple casino-style game in java script. All we have to do is roll the dice and try to reach 100 points
+faster than your opponent player. The whole programming is in HTML, CSS, and JavaScript. This game is fully in java script and uses
+some sprite images
